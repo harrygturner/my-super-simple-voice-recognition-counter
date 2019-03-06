@@ -1,0 +1,37 @@
+body {
+   font-family: Karla;
+}
+
+h1 {
+   text-align: center;
+}
+
+#header {
+   margin: 20px auto;
+   text-align: center;
+}
+
+.btn {
+   margin: 0px 20px;
+   padding: 8px 15px;
+   border-radius: 8px;
+}
+
+.counter {
+   text-align: center;
+}
+
+.voice-rec {
+   margin: 50px 0px;
+   text-align: center;
+}
+
+.voice-rec img {
+   width: 10%;
+}
+
+.error-message {
+   margin-top: 30px;
+   color: red;
+   text-align: center;
+}
